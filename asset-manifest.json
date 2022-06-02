@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0b5bfaf2.css",
+    "main.js": "/portfolio/static/js/main.36d2ca0f.js",
+    "static/media/dynamicWebsite.gif": "/portfolio/static/media/dynamicWebsite.3a6b9048806bd55621f6.gif",
+    "static/media/blog3.jpg": "/portfolio/static/media/blog3.5ce127a5aa4e70ed086c.jpg",
+    "static/media/hostel.gif": "/portfolio/static/media/hostel.e57c838b282a742cff0a.gif",
+    "static/media/event.gif": "/portfolio/static/media/event.c395b01b699e58e2dd58.gif",
+    "static/media/blog2.jpg": "/portfolio/static/media/blog2.17d4dcd540b6b0515e60.jpg",
+    "static/media/blog4.jpg": "/portfolio/static/media/blog4.1e6660160d74059a9764.jpg",
+    "static/media/TextAnalysis.gif": "/portfolio/static/media/TextAnalysis.764d6f6c8ef9bc4f1de1.gif",
+    "static/media/carprice.png": "/portfolio/static/media/carprice.488feba95676e62ef8c5.png",
+    "static/media/jack.gif": "/portfolio/static/media/jack.7b03b95f1f8c87f49598.gif",
+    "static/media/blog1.gif": "/portfolio/static/media/blog1.d44f4eac9a5f7391812b.gif",
+    "static/media/api.gif": "/portfolio/static/media/api.512d36c0966268271710.gif",
+    "static/media/dots.svg": "/portfolio/static/media/dots.943074de96462d63102d.svg",
+    "static/media/alok1.jpg": "/portfolio/static/media/alok1.6ceadde28330fbb2b044.jpg",
+    "static/media/Alok.jpg": "/portfolio/static/media/Alok.cf2d51a49f9fa1132ee5.jpg",
+    "static/media/location.svg": "/portfolio/static/media/location.08194cba4ac479eda7108d2d2461e4d1.svg",
+    "static/media/emailme.svg": "/portfolio/static/media/emailme.8a80ecd4fc9a25d239f3c8482bda2f74.svg",
+    "index.html": "/portfolio/index.html",
+    "main.0b5bfaf2.css.map": "/portfolio/static/css/main.0b5bfaf2.css.map",
+    "main.36d2ca0f.js.map": "/portfolio/static/js/main.36d2ca0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b5bfaf2.css",
+    "static/js/main.36d2ca0f.js"
+  ]
+}
