@@ -1,6 +1,6 @@
 {
-    "homepage": "https://www.alokknight.com",
-    "name": "portfolio",
+    "homepage": "https://www.alokknight.com/old-react-portfolio",
+    "name": "old-react-portfolio",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
